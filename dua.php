@@ -1,7 +1,7 @@
 <?php
-	$host = "202.124.205.201";
-	$user = "alvin";
-	$pass = "alvin";
+	$host = "localhost";
+	$user = "root";
+	$pass = "sayangku";
 	$db = "db_dws";
 	mysql_connect($host, $user, $pass);
 	mysql_select_db($db);
